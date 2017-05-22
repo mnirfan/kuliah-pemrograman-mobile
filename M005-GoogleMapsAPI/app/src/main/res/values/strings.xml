@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">M005-GoogleMapsAPI</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
